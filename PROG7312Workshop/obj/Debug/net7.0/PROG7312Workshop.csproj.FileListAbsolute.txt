@@ -1,0 +1,15 @@
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.csproj.AssemblyReference.cache
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.AssemblyInfoInputs.cache
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.AssemblyInfo.cs
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.csproj.CoreCompileInputs.cache
+D:\PRE\PROG7312Workshop\PROG7312Workshop\bin\Debug\net7.0\PROG7312Workshop.exe
+D:\PRE\PROG7312Workshop\PROG7312Workshop\bin\Debug\net7.0\PROG7312Workshop.deps.json
+D:\PRE\PROG7312Workshop\PROG7312Workshop\bin\Debug\net7.0\PROG7312Workshop.runtimeconfig.json
+D:\PRE\PROG7312Workshop\PROG7312Workshop\bin\Debug\net7.0\PROG7312Workshop.dll
+D:\PRE\PROG7312Workshop\PROG7312Workshop\bin\Debug\net7.0\PROG7312Workshop.pdb
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.dll
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\refint\PROG7312Workshop.dll
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.pdb
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\PROG7312Workshop.genruntimeconfig.cache
+D:\PRE\PROG7312Workshop\PROG7312Workshop\obj\Debug\net7.0\ref\PROG7312Workshop.dll
