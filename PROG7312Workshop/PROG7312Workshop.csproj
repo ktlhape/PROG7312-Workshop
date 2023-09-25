@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>PROG7312Workshop.Generics.Tester</StartupObject>
+    <StartupObject>PROG7312Workshop.OperatorOverloading.Tester</StartupObject>
   </PropertyGroup>
 
 </Project>
